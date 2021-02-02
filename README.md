@@ -17,6 +17,13 @@ Apos configurar o banco de dados execute `adonis migration:run` na raiz do proje
 adonis migration:run
 ```
 
+### Run
+Rode o comando `adonis serve` para executar o projeto localmente, os endpois estarão disponiveis em `http://localhost:3333`.
+
+```js
+adonis serve
+```
+
 ## Endpoints
 
 Para ver todo os endpoints disponiveis basta executar o comando `adonis route:list`.
